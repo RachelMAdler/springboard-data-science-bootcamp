@@ -1,1 +1,1 @@
-# springboard
+The scripts and documents in this folder were created for the Springboard Data Science Career Track program (an online, mentor-guided bootcamp).  The curriculum includes data wrangling, data storytelling, inferential statistics, and machine learning.  In addition, I completed two capstone projects to demonstrate my skills in these areas.  The first capstone project looks at the demographic and security habit variables that predict an individual's risk of a cybersecurity attack.
