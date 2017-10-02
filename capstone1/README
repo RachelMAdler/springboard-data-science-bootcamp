@@ -1,3 +1,11 @@
 This project was completed for Springboard's Data Science Career Track program.  They represent an analysis of Pew Research Center's 2016 survey on the cybersecurity habits and incidents of 1,040 adult internet users in the U.S.  All data are publically available at http://www.pewinternet.org/2017/01/26/americans-and-cybersecurity/.
 
-There are 
+This folder includes the following scripts and documents:
+
+1. capstone1_data.csv contains the data used for all analyses
+2. capstone1_proposal.md is the proposal for this project
+3. capstone1_datawrangling.md describes the data wrangling and cleaning steps performed on the data
+4. capstone1_datastory.ipynb contains initial data visualizations and general observations
+5. capstone1_stats.md describes the statistical patterns identified in the data
+5. capstone1_milestone.md describes the progress made mid-way through the project
+6. capstone1_modeling-final.ipynb contains the machine learning models applied to the data (e.g., random forest, logistic regression) and the outcomes
