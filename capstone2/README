@@ -1,4 +1,4 @@
-This project was completed for Springboard's Data Science Career Track program.  The goal of the project was to develop a model to predict when a tweet is sarcastic.  This folder includes the following scripts and documents:
+This project was completed for Springboard's Data Science Career Track program.  The goal of the project was to develop a model to predict when a tweet is sarcastic.  Approximately 95,000 tweets made by 70,000 users were analyzed.  The model that performed best was a logistic regression model using 400 LSI components as features (AUC = 0.74, test accuracy = 67.7%).  This folder includes the following scripts and documents:
 
 1. The folders 'gensim', 'hashtag_dfs', and 'training_test_sets' contain the data, a mask identifying which observations are training/test, and objects created in developing LSI models
 2. capstone2_proposal.ipynb is the proposal for this project
