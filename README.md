@@ -1,3 +1,3 @@
 The scripts and documents in this folder were created for the Springboard Data Science Career Track program (an online, mentor-guided bootcamp).  The curriculum includes data wrangling, data storytelling, inferential statistics, and machine learning.  The 'miniprojects' folder contains exercises I completed to test my skills in these areas.
 
-In addition, I completed two capstone projects to demonstrate my mastery of each part of the data science pipeline.  The first capstone project looks at the demographic and security habit variables that predict an individual's risk of a cybersecurity attack.
+In addition, I completed two capstone projects to demonstrate my mastery of each part of the data science pipeline.  The first capstone project looks at the demographic and security habit variables that predict an individual's risk of a cybersecurity attack.  In the second capstone project, I create a model to predict whether or not a tweet is sarcastic.
